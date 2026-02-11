@@ -1,5 +1,2 @@
 console.log('index.js');
-console.log('version1');
-console.log('version2');
-console.log('version3');
-console.log('work');
+console.log('version12');
